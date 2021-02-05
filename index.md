@@ -1,3 +1,10 @@
-# Welcome to my blog
+# Welcome to Wackycodes
 
-I'm glad you are here. I plan to talk about ...
+Hello dear, I'm Shailendra Lodhi from bhopal, India. 
+I work as an android devoloper.
+
+`Hello World!
+<Thank You/>`
+
+## Thank You!
+Bye
